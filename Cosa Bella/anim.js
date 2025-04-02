@@ -6,8 +6,8 @@ var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
   { text: "No soy de dar Flores", time:10},
   { text: "Meno de dedicar una", time: 12},
-  { text: "Pero esepero que esta te gusten", time:15},
-  { text: "te quiero mucho", time: 18 },
+  { text: "Pero espero que esta te gusten", time:15},
+  { text: "Te quiero mucho Cosa Bella", time: 19 },
  
 ];
 
